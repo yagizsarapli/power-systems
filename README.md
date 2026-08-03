@@ -17,3 +17,7 @@ Development of a simple low-voltage grid analysis tool.
 
 Yagiz Sarapli  
 M.Sc. Electrical Engineering
+
+## Learning Log
+
+Day 1 - GitHub repository created.
